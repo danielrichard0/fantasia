@@ -1,0 +1,17 @@
+.text-banner {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.bg-image {
+    background-image: linear-gradient(
+  to bottom,
+  rgba(0, 0, 0, 0.5),
+  rgba(0, 0, 0, 0.8)
+), url("/assets//foto-akhir.jpg");
+}
+
+.invert-color {
+    filter: invert(100%);
+  }
