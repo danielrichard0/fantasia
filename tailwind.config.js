@@ -8,6 +8,9 @@ module.exports = {
       },
       fontFamily: {
         'default' : ['Noto Sans']
+      },
+      screems: {
+        'md' : "768px"
       }
     },
   },
